@@ -1,0 +1,74 @@
+[
+  {
+    "id": "pulse-runner",
+    "name": "Pulse Runner",
+    "category": "running shoes",
+    "price": 98,
+    "colors": ["black", "white", "electric blue"],
+    "sizes": ["7", "8", "9", "10", "11", "12"],
+    "description": "Lightweight daily trainer with responsive cushioning, built for road running."
+  },
+  {
+    "id": "aero-trail",
+    "name": "Aero Trail",
+    "category": "trail shoes",
+    "price": 112,
+    "colors": ["grey", "forest green"],
+    "sizes": ["7", "8", "9", "10", "11"],
+    "description": "Grippy trail shoe with reinforced toe cap, built for uneven terrain."
+  },
+  {
+    "id": "summit-street",
+    "name": "Summit Street",
+    "category": "sneakers",
+    "price": 76,
+    "colors": ["white", "beige", "black"],
+    "sizes": ["6", "7", "8", "9", "10", "11", "12"],
+    "description": "Minimal everyday sneaker with a clean silhouette, pairs with anything."
+  },
+  {
+    "id": "drift-jacket",
+    "name": "Drift Jacket",
+    "category": "jacket",
+    "price": 145,
+    "colors": ["navy", "black", "olive"],
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Packable windbreaker with a water-resistant shell, layers easily."
+  },
+  {
+    "id": "haven-parka",
+    "name": "Haven Parka",
+    "category": "jacket",
+    "price": 210,
+    "colors": ["charcoal", "camel"],
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Insulated winter parka rated for cold climates, faux-fur trim hood."
+  },
+  {
+    "id": "trek-pack-22",
+    "name": "Trek Pack 22L",
+    "category": "backpack",
+    "price": 89,
+    "colors": ["black", "burnt orange"],
+    "sizes": ["one size"],
+    "description": "22-liter daypack with a padded laptop sleeve, fits a 15-inch laptop."
+  },
+  {
+    "id": "wave-buds",
+    "name": "Wave Buds",
+    "category": "headphones",
+    "price": 59,
+    "colors": ["white", "black"],
+    "sizes": ["one size"],
+    "description": "Wireless earbuds with 24-hour battery life via the charging case."
+  },
+  {
+    "id": "pulse-watch",
+    "name": "Pulse Watch",
+    "category": "smartwatch",
+    "price": 129,
+    "colors": ["black", "rose gold", "silver"],
+    "sizes": ["one size"],
+    "description": "Fitness watch with heart-rate tracking and a 7-day battery."
+  }
+]
